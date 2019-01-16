@@ -1,2 +1,0 @@
-# reactWithAJAXBrokenVersion
-Created with CodeSandbox
